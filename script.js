@@ -39,3 +39,40 @@
 // }
 // reverse()
 
+// // write a function that return the longest word in a sentence
+//  function longestword(){
+//     let sentence ="good day guys"
+//     console.log(sentence.split("")[0].lenght)
+//     console.log(sentenceconsole.split("")[1].lenght)
+//     console.log(sentenceconsole.split("")[2].lenght)
+
+//     console.log(Math.max(sentence.split("")[0].lenght,sentenceconsole,split("")
+// [1].lenght,sentencec,split("")[2].lenght))
+// console.log(sentence.lenght)
+//  }
+// longestword()
+
+
+// // if(i < 10)
+// // let val =1;
+// //val ++
+// // val+=2
+// for(let i =0; i < 10; i++) {
+//     console.log("this is the value of i", i);
+// }
+// console.log('we are learning loop')
+
+
+// let score =[50,60,70,80,90];
+
+// for(let i =0; i < 5; i++){
+//     console.log('score =', score[i]);
+//     console.log(score[i]);
+    
+// // }
+
+// let result = [2,3,4,5,6,7 ];
+
+// for(let b = 0; b < 6; b++){
+//     // console.log('result=',result[b]);
+//     console.log(result[b])
